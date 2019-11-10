@@ -1,3 +1,7 @@
+# Course Projec for STOR893, Numerical Optimization  
+We took the original work from Berrada et al and tried a new method for smoothing the top-k loss function for a course project. Our changes are in smooth-topk/src/losses/functional.py.  
+Please look at Topk_Smooth_SVM() for our implementation.  
+# Original README below  
 # Smooth Loss Functions for Deep Top-k Classification
 
 This repository contains the implementation of the paper [Smooth Loss Functions for Deep Top-k Classification](https://openreview.net/forum?id=Hk5elxbRW&noteId=Hk5elxbRW) in pytorch. If you use this work for your research, please cite the paper:
